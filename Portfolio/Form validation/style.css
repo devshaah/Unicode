@@ -1,0 +1,30 @@
+.form{
+    margin: 3% 7%;
+}
+.container-fluid{
+    background-color: black;
+}
+.navbar {
+    padding-bottom: 0.75rem;
+}
+.nav-button{
+   background-color: rgb(175, 158, 137);
+}
+
+.nav-items {
+    padding: 0px 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+}
+
+.logo{
+    width: 60px;
+}
+.logo:hover{
+    width: 100px;
+}
+.socials{
+   padding: 20px 40px;
+}
